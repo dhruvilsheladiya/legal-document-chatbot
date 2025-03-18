@@ -1,0 +1,32 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is made and entered into as of March 17, 2025, by and between:
+
+**Disclosing Party**: ABC Corporation, having its principal place of business at 123 Business Street, New York, NY.
+
+**Receiving Party**: XYZ Solutions, having its principal place of business at 456 Tech Avenue, San Francisco, CA.
+
+1. **Confidential Information**: The Disclosing Party may disclose certain confidential and proprietary information ("Confidential Information") to the Receiving Party. Confidential Information includes trade secrets, customer lists, financial data, and business strategies.
+
+2. **Obligations of Receiving Party**:
+   - The Receiving Party shall not disclose, distribute, or use Confidential Information for any purpose other than for business collaboration.
+   - The Receiving Party agrees to take all necessary precautions to protect the confidentiality of the disclosed information.
+
+3. **Term & Termination**:
+   - This Agreement shall be in effect for **two (2) years** from the Effective Date.
+   - Upon termination, the Receiving Party shall return or destroy all Confidential Information.
+
+4. **Governing Law**:
+   - This Agreement shall be governed by the laws of the State of **California**.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Non-Disclosure Agreement as of the date first written above.
+
+**Disclosing Party**: ABC Corporation  
+Signature: _______________  
+Name: John Doe  
+Title: CEO  
+
+**Receiving Party**: XYZ Solutions  
+Signature: _______________  
+Name: Jane Smith  
+Title: CTO  
