@@ -112,10 +112,6 @@ streamlit run app/frontend/app.py
 
 ---
 
-## 🔥 Next Steps
-- Implement **question-answering** on uploaded legal documents.
-- Add support for **multiple file formats (DOCX, TXT, etc.)**.
-- Deploy the entire system using **AWS/GCP** for scalability.
-
-📢 **Need Help?** Open an issue or contribute to the project! 🚀
+# Created By:- 
+# Dhruvil Sheladiya.
 
