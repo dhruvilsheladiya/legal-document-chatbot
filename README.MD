@@ -15,6 +15,8 @@ The **Legal Document Chatbot** is an AI-powered system that processes legal docu
 
 ## 🚀 Setup Instructions
 
+--------# Venv folder im not uploaded in my repo. and .env file not uploaded!.  
+
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/your-repo/legal_chatbot.git
