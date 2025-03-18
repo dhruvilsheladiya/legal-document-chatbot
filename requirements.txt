@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pdfplumber
+PyMuPDF
+spacy
+sentence-transformers
+faiss-cpu
+langchain
+langchain_community
+transformers
+torch
+python-multipart
+tqdm
+rouge-score
